@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BILLA SUITE">
+    <test name="ARUNSTEST">
+        <parameter name="adminuserid" value="abc"/>
+        <classes>
+            <class name="dataproviderarun.parametertestcase"/>
+            
+            
+        </classes>
+        
+        
+        
+    </test>
+    
+    
+    
+</suite>
